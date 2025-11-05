@@ -1,0 +1,13 @@
+## Computação Pararela - Trabalho Prático 2
+
+Grupo:
+    João Marcos
+    Bruno Mamede
+
+
+### Introdução
+
+Esse projeto é consiste no desenvolvimento de um sistema para a disciplina de Computação Paralela.
+
+Nesse, utilizaremos a linguagem de programação C em conjunto com as bibliotecas MPI e OpenMP para
+solucionar o problema proposto com técnicas de paralização, visando maximizar o desempenho(tempo).
